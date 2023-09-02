@@ -4,6 +4,8 @@
 
 ![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteovar&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteovar&layout=compact)
+
 ## Linguagem do dia a dia
 
 <div style="dispaly: inline_block"><br/>
