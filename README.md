@@ -28,4 +28,6 @@
 - [UML](https://github.com/matteovar/UML-Classroom-FCI)
 
 ## Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4f4d57e-d251-42ff-9bc1-69376237a9b4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/c4f4d57e-d251-42ff-9bc1-69376237a9b4/public_url">
+  <img src="https://github.com/user-attachments/assets/32722b2e-983b-4bf6-959a-e06221e0c90d" width="90"/>
+</a>
