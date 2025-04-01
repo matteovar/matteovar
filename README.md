@@ -23,9 +23,9 @@
 </div>
 
 ## Ultimos Projetos feitos
-- [Estrutura de dados](https://github.com/matteovar/ESTRUTURA_DE_DADOS)<br/>
-- [AWS](https://github.com/Bobertkiller/Grupo_Aws)
-- [UML](https://github.com/matteovar/UML-Classroom-FCI)
+- [Software de Analise Laboratorial](https://github.com/matteovar/exams_lab)<br/>
+- [Billaboard Streamlit](https://github.com/matteovar/Billaboard-Top-Songs)
+- [Sale Streamlit](https://github.com/matteovar/Sales)
 
 ## Badge
 <a href="https://www.credly.com/badges/c4f4d57e-d251-42ff-9bc1-69376237a9b4/public_url">
