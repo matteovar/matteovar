@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
+#  Matteo Domiciano Varnier
 
 Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de Sao Pualo. Estou cursando Ciencias da Computacao na Universidade Presbiteriana Mackenzie. Quero deixar todo meu conhecimento que eu tenho por meio desse perfil.
 
@@ -91,7 +89,7 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de Sao Pualo. Estou cursa
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matteovar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
