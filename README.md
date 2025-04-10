@@ -91,7 +91,7 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de Sao Pualo. Estou cursa
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matteovar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
