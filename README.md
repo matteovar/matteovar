@@ -79,7 +79,16 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de Sao Pualo. Estou cursa
     style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
-
+    <img 
+    align="left" 
+    alt="Streamlit" 
+    title="Streamlit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+/>
+          
+---
 <br/>
 <br/>
 
@@ -101,4 +110,15 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de Sao Pualo. Estou cursa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteovar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+
+<br/>
+<br/>
+
+---
+
+### Badges
+<p>
+    <a href="https://www.credly.com/badges/c4f4d57e-d251-42ff-9bc1-69376237a9b4/public_url"> <img  src="https://github.com/user-attachments/assets/32722b2e-983b-4bf6-959a-e06221e0c90d" width="90"/> </a>
 </p>
