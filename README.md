@@ -13,6 +13,7 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de São Paulo. Estou curs
 <img align="left" alt="Terraform" title="Terraform" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Streamlit" title="Streamlit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+<br></br>
 
 ---
 
@@ -22,7 +23,7 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de São Paulo. Estou curs
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteovar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
-<br/>
+<br></br>
 
 ---
 
