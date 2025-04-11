@@ -36,4 +36,8 @@ Me chamo Matteo Domiciano Varnier, tenho 21 anos e sou de São Paulo. Estou curs
   <a href="https://www.credly.com/badges/c4f4d57e-d251-42ff-9bc1-69376237a9b4/public_url">
     <img src="https://github.com/user-attachments/assets/32722b2e-983b-4bf6-959a-e06221e0c90d" width="90" />
   </a>
+
+  <a href="https://www.credly.com/badges/b27a0678-2bd9-4801-86e0-fcd3286ac6ed/public_url">
+    <img src="https://github.com/user-attachments/assets/a7f4bd4d-eee8-4ebf-9447-1625bf52c6d5" width="110" />
+  </a>
 </p>
